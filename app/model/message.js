@@ -12,4 +12,5 @@ Model.message = function(exports){
             {name: 'time', type: 'datetime',defaultValue: 'now()'}
         ]
     };
+    
 };
